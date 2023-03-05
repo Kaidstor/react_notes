@@ -1,0 +1,12 @@
+{
+    "name": "oilkontinent",
+    "host": "37.140.192.110",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "u1389014_kaistor",
+    "remotePath": "/www/oilkontinent.ru/",
+    "uploadOnSave": true,
+    "useTempFile": false,
+    "openSsh": false,
+    "password": "mV8sH4nF4e"
+    }
