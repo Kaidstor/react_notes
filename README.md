@@ -17,9 +17,7 @@
 - если работаем с удалённой БД данная ссылка полезна
   https://www.dmosk.ru/miniinstruktions.php?mini=pgsql-remote
 
-## Для установки пакетов на мак:
-1) Mac OS
-
+## Для установки пакетов на мак: 
 ### Установка brew
 - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 - Или по данному туториалу
