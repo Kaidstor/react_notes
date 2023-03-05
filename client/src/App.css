@@ -1,0 +1,16 @@
+.drop-area {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    z-index: 5;
+}
+.full-hw{
+    width: 100vw;
+    height: 100vh;
+}
+p{
+    margin: 0;
+}

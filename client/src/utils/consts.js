@@ -1,0 +1,5 @@
+export const NOTES_ROUTE = 'note'
+export const TAGS_ROUTE = 'tags'
+export const ADMIN_ROUTE = 'admin'
+export const LOGIN_ROUTE = 'login'
+export const REGISTRATION_ROUTE = 'registration'
