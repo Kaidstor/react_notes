@@ -1,5 +1,7 @@
 # Запуск проекта
 Установк node.js и npm https://nodejs.org/en/download/
+Ubuntu: https://github.com/nvm-sh/nvm
+
 Далее можно установить любую библиотеку от sequelize В данном случае postgres
 
 ## Postgres
